@@ -15,6 +15,7 @@ Dig a little deeper, and you'll see that JAX is really an extensible system for 
 
 This is a research project, not an official Google product. Expect bugs and sharp edges. Please help by trying it out, reporting bugs, and letting us know what you think!
 
+
 import jax.numpy as jnp
 from jax import grad, jit, vmap
 
